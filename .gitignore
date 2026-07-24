@@ -427,3 +427,18 @@ FodyWeavers.xsd
 *.msix
 *.msm
 *.msp
+
+# Salesforce CLI
+.sfdx/
+
+# VS Code
+.vscode/
+
+# Dependencies
+node_modules/
+
+# Logs
+*.log
+
+# macOS
+.DS_Store
